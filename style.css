@@ -2,8 +2,9 @@ body {
 	text-align: center;
 	color: white;
 	/* font-family: 'Comic Neue', cursive; */
-	background-image: url("image.png");
-	background-repeat: no-repeat;
+	/* background-image: url("image.png"); */
+	/* background-repeat: no-repeat; */
+	background-color: #000000;
 }
 
 button {
